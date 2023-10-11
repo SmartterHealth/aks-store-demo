@@ -16,29 +16,29 @@ This material
 [END LIST]
 
 describe the following product sold in a health supplies store:
-Product name: ComfortLift Posture Corrector
-tags: Posture, Back Support, Wellness
+Product name: ZenoFit Tracker
+tags: fitness tracker, heart rate monitor, smartphone sync, feedback, coaching
 +++++
-Improve your posture and reduce back pain with the ComfortLift Posture Corrector. This adjustable brace gently reminds you to maintain a healthy posture throughout the day.
+Monitor your heart rate, calories, steps, and more with this ultimate fitness tracker. It syncs with your smartphone and gives you personalized feedback and coaching. ZenoFit Tracker is your best companion for your fitness goals.
 
 describe the following product sold in a health supplies store:
-Product name: SleepEase Orthopedic Pillow
-tags: Sleep, Neck Pain, Comfort
+Product name: LumiSkin LED Device
+tags: skincare device, LED light therapy, anti-aging, collagen, elastin
 +++++
-Enjoy a peaceful night's sleep with the SleepEase Orthopedic Pillow. Its ergonomic design provides optimal support for your neck and spine, relieving discomfort and tension.
+Rejuvenate your skin with this revolutionary device that uses LED light therapy. It reduces wrinkles, fine lines, dark spots, and acne. It also boosts collagen and elastin production. LumiSkin LED Device is the secret to a younger-looking skin.
 
 describe the following product sold in a health supplies store:
-Product name: FlexiGrip Arthritis Gloves
-tags: Arthritis, Hand Support, Pain Relief
+Product name: FlexiFit Yoga Mat
+tags: yoga mat, non-slip surface, cushioned layer, comfort, stability
 +++++
-Alleviate the pain and stiffness of arthritis with FlexiGrip Arthritis Gloves. These compression gloves offer warmth and support for your hands.
+Practice yoga with the perfect balance of comfort and stability with this yoga mat. It has a non-slip surface that grips the floor and prevents sliding. It also has a cushioned layer that supports your joints and spine. FlexiFit Yoga Mat is the mat that enhances your yoga experience.
 
 
 describe the following product sold in a health supplies store:
-product name: BreatheEasy Air Purifier
-tags: Allergies, Air Quality, Health
+product name: Airy Purifier Mini
+tags: air purifier, portable, HEPA filter, dust, pollen, smoke, odors, bacteria
 +++++
-Breathe cleaner air with the BreatheEasy Air Purifier. It effectively removes allergens and pollutants, promoting a healthier living space.
+Clean the air in your home or office with this compact and powerful air purifier. It removes dust, pollen, smoke, odors, and bacteria. It also has a HEPA filter that lasts up to 6 months. Airy Purifier Mini is the device that breathes fresh air into your life.
 
 
 describe the following product sold in a health supplies store:
