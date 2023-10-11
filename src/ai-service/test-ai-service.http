@@ -8,6 +8,6 @@ Host: localhost:5001
 Content-Type: application/json
 
 {
-    "name": "Seafarer's Tug Rope",
-    "tags": ["toy","dog"]
+    "name": "StepUp Height Insoles",
+    "tags": ["Height Increase", "Confidence", "Comfort"]
 }
