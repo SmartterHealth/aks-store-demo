@@ -114,72 +114,72 @@ async fn main() -> std::io::Result<()> {
     let products = vec![
         Product {
             id: 1,
-            name: "Captain Catnip's Fisherman's Friend".to_string(),
-            price: 9.99,
-            description: "Watch your feline friend embark on a fishing adventure with Captain Catnip's Fisherman's Friend toy. Packed with irresistible catnip and dangling fish lure.".to_string(),
+            name: "ZenoFit Tracker".to_string(),
+            price: 99.99,
+            description: "Monitor your heart rate, calories, steps, and more with this ultimate fitness tracker. It syncs with your smartphone and gives you personalized feedback and coaching. ZenoFit Tracker is your best companion for your fitness goals.".to_string(),
             image: "/placeholder.png".to_string()
         },
         Product {
             id: 2,
-            name: "Salty Sailor's Squeaky Squid".to_string(),
-            price: 6.99,
-            description: "Let your dog set sail with the Salty Sailor's Squeaky Squid. This interactive toy provides hours of fun, featuring multiple squeakers and crinkle tentacles.".to_string(),
+            name: "Airy Purifier Mini".to_string(),
+            price: 79.99,
+            description: "Clean the air in your home or office with this compact and powerful air purifier. It removes dust, pollen, smoke, odors, and bacteria. It also has a HEPA filter that lasts up to 6 months. Airy Purifier Mini is the device that breathes fresh air into your life.".to_string(),
             image: "/placeholder.png".to_string()
         },
         Product {
             id: 3,
-            name: "Mermaid's Mice Trio".to_string(),
-            price: 12.99,
-            description: "Entertain your kitty with the Mermaid's Mice Trio. These adorable plush mice are dressed as mermaids and filled with catnip to captivate their curiosity.".to_string(),
+            name: "Zenith Wireless Headphones".to_string(),
+            price: 199.99,
+            description: "Enjoy high-quality sound and noise cancellation with these premium headphones. They have a sleek design and a comfortable fit. They also have a long battery life and a built-in microphone. Zenith Wireless Headphones are the ultimate sound experience for your ears.".to_string(),
             image: "/placeholder.png".to_string()
         },
         Product {
             id: 4,
-            name: "Ocean Explorer's Puzzle Ball".to_string(),
-            price: 11.99,
-            description: "Challenge your pet's problem-solving skills with the Ocean Explorer's Puzzle Ball. This interactive toy features hidden compartments and treats, providing mental stimulation and entertainment.".to_string(),
+            name: "Hydrate Smart Bottle".to_string(),
+            price: 39.99,
+            description: "Track your water intake and remind yourself to drink more with this smart water bottle. It connects to your smartphone and shows you your hydration level and goals. It also glows in different colors to motivate you. Hydrate Smart Bottle is the bottle that keeps you hydrated and healthy.".to_string(),
             image: "/placeholder.png".to_string()
         },
         Product {
             id: 5,
-            name: "Pirate Parrot Teaser Wand".to_string(),
-            price: 8.99,
-            description: "Engage your cat in a playful pursuit with the Pirate Parrot Teaser Wand. The colorful feathers and jingling bells mimic the mischievous charm of a pirate's parrot.".to_string(),
+            name: "Sleepy Weighted Mask".to_string(),
+            price: 29.99,
+            description: "Fall asleep faster and deeper with this sleep mask. It has a weighted design that applies gentle pressure to your eyes and temples. It also has a lavender scent that relaxes your mind and body. Sleepy Weighted Mask is the mask that helps you sleep better.".to_string(),
             image: "/placeholder.png".to_string()
         },
         Product {
             id: 6,
-            name: "Seafarer's Tug Rope".to_string(),
-            price: 14.99,
-            description: "Tug-of-war meets nautical adventure with the Seafarer's Tug Rope. Made from marine-grade rope, it's perfect for interactive play and promoting dental health in dogs.".to_string(),
+            name: "FlexiFit Yoga Mat".to_string(),
+            price: 49.99,
+            description: "Practice yoga with the perfect balance of comfort and stability with this yoga mat. It has a non-slip surface that grips the floor and prevents sliding. It also has a cushioned layer that supports your joints and spine. FlexiFit Yoga Mat is the mat that enhances your yoga experience.".to_string(),
             image: "/placeholder.png".to_string()
         },
         Product {
             id: 7,
-            name: "Seashell Snuggle Bed".to_string(),
-            price: 19.99,
-            description: "Give your furry friend a cozy spot to curl up with the Seashell Snuggle Bed. Shaped like a seashell, this plush bed provides comfort and relaxation for cats and small dogs.".to_string(),
+            name: "Glow Ionic Dryer".to_string(),
+            price: 89.99,
+            description: "Dry your hair faster and smoother than ever before with this hair dryer. It uses ionic technology to reduce frizz and static electricity. It also has a ceramic coating that protects your hair from heat damage. Glow Ionic Dryer is the dryer that gives your hair a healthy glow.".to_string(),
             image: "/placeholder.png".to_string()
         },
         Product {
             id: 8,
-            name: "Nautical Knot Ball".to_string(),
-            price: 7.99,
-            description: "Unleash your dog's inner sailor with the Nautical Knot Ball. Made from sturdy ropes, it's perfect for fetching, tugging, and satisfying their chewing needs.".to_string(),
+            name: "Breathe Aroma Diffuser".to_string(),
+            price: 49.99,
+            description: "Fill your space with soothing scents and mood lighting with this aromatherapy diffuser. It comes with 6 different essential oils that have various benefits for your health and well-being. It also has a timer and a mist mode. Breathe Aroma Diffuser is the device that creates a relaxing atmosphere for you.".to_string(),
             image: "/placeholder.png".to_string()
         },
         Product {
             id: 9,
-            name: "Captain Claw's Crab Cat Toy".to_string(),
-            price: 3.99,
-            description: "Watch your cat go crazy for Captain Claw's Crab Cat Toy. This crinkly and catnip-filled toy will awaken their hunting instincts and provide endless entertainment.".to_string(),
+            name: "LumiSkin LED Device".to_string(),
+            price: 149.99,
+            description: "Rejuvenate your skin with this revolutionary device that uses LED light therapy. It reduces wrinkles, fine lines, dark spots, and acne. It also boosts collagen and elastin production. LumiSkin LED Device is the secret to a younger-looking skin.".to_string(),
             image: "/placeholder.png".to_string()
         },
         Product {
             id: 10,
-            name: "Ahoy Doggy Life Jacket".to_string(),
-            price: 5.99,
-            description: "Ensure your furry friend stays safe during water adventures with the Ahoy Doggy Life Jacket. Designed for dogs, this flotation device offers buoyancy and visibility in style.".to_string(),
+            name: "FlexiFit Yoga Ball".to_string(),
+            price: 39.99,
+            description: "Improve your balance and flexibility with this high-quality yoga ball. It is made of anti-burst PVC material that can support up to 2200 lbs. It also comes with a pump and a workout guide. FlexiFit Yoga Ball is the perfect tool for your yoga practice and physical therapy.".to_string(),
             image: "/placeholder.png".to_string()
         }
     ];
