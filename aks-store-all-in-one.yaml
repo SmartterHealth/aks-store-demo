@@ -252,7 +252,7 @@ spec:
         "kubernetes.io/os": linux
       containers:
       - name: product-service
-        image: ghcr.io/azure-samples/aks-store-demo/product-service:latest
+        image: ghcr.io/mathyousee/aks-store-demo/product-service:latest
         ports:
         - containerPort: 3002
         resources:
@@ -294,7 +294,7 @@ spec:
         "kubernetes.io/os": linux
       containers:
       - name: store-front
-        image: ghcr.io/azure-samples/aks-store-demo/store-front:latest
+        image: ghcr.io/mathyousee/aks-store-demo/store-front:latest
         ports:
         - containerPort: 8080
           name: store-front
