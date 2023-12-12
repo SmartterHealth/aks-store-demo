@@ -117,70 +117,70 @@ async fn main() -> std::io::Result<()> {
             name: "ZenoFit Tracker".to_string(),
             price: 99.99,
             description: "Monitor your heart rate, calories, steps, and more with this ultimate fitness tracker. It syncs with your smartphone and gives you personalized feedback and coaching. ZenoFit Tracker is your best companion for your fitness goals.".to_string(),
-            image: "/placeholder.png".to_string()
+            image: "https://cdn-magento.mykronoz.com/media/catalog/product/cache/6/image/1800x/c328707a3c432302e119a0cb3e816d26/z/e/zefit2-black-760x760_1.png".to_string()
         },
         Product {
             id: 2,
             name: "Airy Purifier Mini".to_string(),
             price: 79.99,
             description: "Clean the air in your home or office with this compact and powerful air purifier. It removes dust, pollen, smoke, odors, and bacteria. It also has a HEPA filter that lasts up to 6 months. Airy Purifier Mini is the device that breathes fresh air into your life.".to_string(),
-            image: "/placeholder.png".to_string()
+            image: "https://alexnld.com/wp-content/uploads/2020/01/3c74f4ae-0b97-4d41-bdc9-4feb63b3c5ca.jpg".to_string()
         },
         Product {
             id: 3,
             name: "Zenith Wireless Headphones".to_string(),
             price: 199.99,
             description: "Enjoy high-quality sound and noise cancellation with these premium headphones. They have a sleek design and a comfortable fit. They also have a long battery life and a built-in microphone. Zenith Wireless Headphones are the ultimate sound experience for your ears.".to_string(),
-            image: "/placeholder.png".to_string()
+            image: "https://www.denon.com/dw/image/v2/BGJH_PRD/on/demandware.static/-/Sites-master-catalog-soundunited/default/dwf2bd0a6c/denon/PDP_images/HeadphonesWirelessEarbuds/DenonNoiseCancellingEarbuds-Black/DenonNoiseCancelling-Black_front1.png?sw=1280".to_string()
         },
         Product {
             id: 4,
             name: "Hydrate Smart Bottle".to_string(),
             price: 39.99,
             description: "Track your water intake and remind yourself to drink more with this smart water bottle. It connects to your smartphone and shows you your hydration level and goals. It also glows in different colors to motivate you. Hydrate Smart Bottle is the bottle that keeps you hydrated and healthy.".to_string(),
-            image: "/placeholder.png".to_string()
+            image: "https://m.media-amazon.com/images/I/51OFzmy16UL.__AC_SX300_SY300_QL70_FMwebp_.jpg".to_string()
         },
         Product {
             id: 5,
             name: "Sleepy Weighted Mask".to_string(),
             price: 29.99,
             description: "Fall asleep faster and deeper with this sleep mask. It has a weighted design that applies gentle pressure to your eyes and temples. It also has a lavender scent that relaxes your mind and body. Sleepy Weighted Mask is the mask that helps you sleep better.".to_string(),
-            image: "/placeholder.png".to_string()
+            image: "https://shop.sleeping.com/cdn/shop/products/bucky-sleep-mask-gray-png_720x.webp?v=1681688488".to_string()
         },
         Product {
             id: 6,
             name: "FlexiFit Yoga Mat".to_string(),
             price: 49.99,
             description: "Practice yoga with the perfect balance of comfort and stability with this yoga mat. It has a non-slip surface that grips the floor and prevents sliding. It also has a cushioned layer that supports your joints and spine. FlexiFit Yoga Mat is the mat that enhances your yoga experience.".to_string(),
-            image: "/placeholder.png".to_string()
+            image: "https://i5.walmartimages.com/asr/1b58e2b4-fed4-4252-be06-64546b547e39_1.1cf861bb2f2e60774a7b53d9ba5869d1.jpeg".to_string()
         },
         Product {
             id: 7,
             name: "Glow Ionic Dryer".to_string(),
             price: 89.99,
             description: "Dry your hair faster and smoother than ever before with this hair dryer. It uses ionic technology to reduce frizz and static electricity. It also has a ceramic coating that protects your hair from heat damage. Glow Ionic Dryer is the dryer that gives your hair a healthy glow.".to_string(),
-            image: "/placeholder.png".to_string()
+            image: "https://th.bing.com/th/id/OIP.uACXMe4aDn5PZJ96CrifMAHaHa?pid=ImgDet&rs=1".to_string()
         },
         Product {
             id: 8,
             name: "Breathe Aroma Diffuser".to_string(),
             price: 49.99,
             description: "Fill your space with soothing scents and mood lighting with this aromatherapy diffuser. It comes with 6 different essential oils that have various benefits for your health and well-being. It also has a timer and a mist mode. Breathe Aroma Diffuser is the device that creates a relaxing atmosphere for you.".to_string(),
-            image: "/placeholder.png".to_string()
+            image: "https://m.media-amazon.com/images/I/61Z+yK2NzxL._AC_SY300_SX300_.jpg".to_string()
         },
         Product {
             id: 9,
             name: "LumiSkin LED Device".to_string(),
             price: 149.99,
             description: "Rejuvenate your skin with this revolutionary device that uses LED light therapy. It reduces wrinkles, fine lines, dark spots, and acne. It also boosts collagen and elastin production. LumiSkin LED Device is the secret to a younger-looking skin.".to_string(),
-            image: "/placeholder.png".to_string()
+            image: "https://cdn.shopify.com/s/files/1/1877/5291/products/WechatIMG4805_1024x1024.jpg?v=1627542093".to_string()
         },
         Product {
             id: 10,
             name: "FlexiFit Yoga Ball".to_string(),
             price: 39.99,
             description: "Improve your balance and flexibility with this high-quality yoga ball. It is made of anti-burst PVC material that can support up to 2200 lbs. It also comes with a pump and a workout guide. FlexiFit Yoga Ball is the perfect tool for your yoga practice and physical therapy.".to_string(),
-            image: "/placeholder.png".to_string()
+            image: "https://i5.walmartimages.com/seo/Athletic-Works-55cm-Yoga-Ball-Anti-Burst-Exercises-Poses-Embossed_781a5fba-aed0-4793-a999-77f918d2cde0.ab2f851528e00183f32c0fe9a09fd4f7.jpeg?odnHeight=640&odnWidth=640&odnBg=FFFFFF".to_string()
         }
     ];
 
